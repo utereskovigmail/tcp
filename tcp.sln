@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpListener", "TcpListener\TcpListener.csproj", "{6146CB8E-C11E-443F-A254-A9BF045029DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpClient", "tcpClient\tcpClient.csproj", "{B8395C01-BBCC-4420-8DA6-F6D06E92DAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6146CB8E-C11E-443F-A254-A9BF045029DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6146CB8E-C11E-443F-A254-A9BF045029DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6146CB8E-C11E-443F-A254-A9BF045029DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6146CB8E-C11E-443F-A254-A9BF045029DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8395C01-BBCC-4420-8DA6-F6D06E92DAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8395C01-BBCC-4420-8DA6-F6D06E92DAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8395C01-BBCC-4420-8DA6-F6D06E92DAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8395C01-BBCC-4420-8DA6-F6D06E92DAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

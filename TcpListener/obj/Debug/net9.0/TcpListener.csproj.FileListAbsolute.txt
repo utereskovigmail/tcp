@@ -1,0 +1,14 @@
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/bin/Debug/net9.0/TcpListener
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/bin/Debug/net9.0/TcpListener.deps.json
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/bin/Debug/net9.0/TcpListener.runtimeconfig.json
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/bin/Debug/net9.0/TcpListener.dll
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/bin/Debug/net9.0/TcpListener.pdb
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/TcpListener.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/TcpListener.AssemblyInfoInputs.cache
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/TcpListener.AssemblyInfo.cs
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/TcpListener.csproj.CoreCompileInputs.cache
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/TcpListener.dll
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/refint/TcpListener.dll
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/TcpListener.pdb
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/TcpListener.genruntimeconfig.cache
+/Users/utereskovygmail.com/RiderProjects/SP/tcp/TcpListener/obj/Debug/net9.0/ref/TcpListener.dll
